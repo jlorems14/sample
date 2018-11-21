@@ -730,7 +730,7 @@ section.test .carousel-indicators {
 /*-- subscribe section --*/
 section.subs {
     padding: 100px 0;
-	background:#28b3b6 url(../images/mano.jpg);
+	background:#28b3b6 url();
 	background-position:center;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
