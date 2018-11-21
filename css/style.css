@@ -366,7 +366,7 @@ section.service-w3ls .carousel-indicators {
 /*-- /services section --*/
 /*-- divider section --*/
 section.divider {
-	background:url(../images/mayon.jpg);
+	background:url();
 	background-position:center;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
